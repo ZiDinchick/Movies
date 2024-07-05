@@ -35,7 +35,7 @@ nav{
 .input-field{
     display: flex;
 }
-.chekboks{
+.checkbox{
     display: flex;
     justify-content: space-around;
 }
